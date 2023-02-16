@@ -1,0 +1,13 @@
+---
+title: "Marjorie"
+output: html_document
+date: "2023-02-16"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- I have a BS in Agronomy and Genetics from Iowa State University
+- I am from Milwaukee, WI
+- I am a second year PhD student in Plant Breeding and Genetics
