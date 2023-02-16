@@ -1,0 +1,17 @@
+name: "Assignment 3 Website"
+navbar:
+  title: "Our Collaborative Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Marjorie"
+      href: marjorie.html
+    - text: "Hannah"
+      href: Hannah.html
+output_dir: "."
+output:
+  html_document:
+    theme: sandstone
+    highlight: textmate
+    toc: true 
+    toc_float: true 
