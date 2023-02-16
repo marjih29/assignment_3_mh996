@@ -1,0 +1,18 @@
+---
+title: Hannah Gurholt
+author: "Hannah"
+date: "2023-02-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* From Wisconsin
+* I love tiramisu
+* I can't stop listening to Rihanna 
+* I have a cat named Bo
+
+
+![The one and only](https://storage.googleapis.com/afs-prod/media/260d44eda14b4616aef610a9a9b2161c/3000.jpeg)
