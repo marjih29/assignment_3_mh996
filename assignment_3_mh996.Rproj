@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
+WebsitePath: /Users/hannahgurholt/Desktop/Spring 2023/assignment_3_hg459
